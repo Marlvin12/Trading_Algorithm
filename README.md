@@ -53,10 +53,5 @@ Modify these parameters in the script as needed:
 blocks = identify_order_blocks(data, window=10, threshold=0.6)
 ```
 
-## License
 
-This script is provided under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute it as long as the license terms are met.
 
----
-
-Save this text as `README.md` in the same folder as your script. This will provide users with the necessary information on how to use and customize the script.
